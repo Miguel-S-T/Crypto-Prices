@@ -10,6 +10,9 @@ This app tracks the price & market changes for top 100 cryptocurrencies.
 
 - [React](https://es.reactjs.org/) - Frontend JavaScript library
 - [Vite](https://vitejs.dev/) - Frontend Tooling
+- [Chart.js](https://www.chartjs.org/) - Frontend charting library
+- [Material-UI] (https://mui.com/) - Frontend component library
+- [Bootstrap] (https://getbootstrap.com/) - Frontend component library
 
 ---
 
