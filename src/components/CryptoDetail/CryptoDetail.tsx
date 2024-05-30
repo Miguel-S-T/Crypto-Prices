@@ -53,7 +53,7 @@ const CryptoDetail: React.FC<CryptoDetailProps> = ({  setSearchQuery}) => {
         });
         const data = await response.json();
    
-        setChartData(data);
+        data && setChartData(data);
       } catch (error) {
         console.error("Error fetching market chart data:", error);
         setErrorFetching(true)
