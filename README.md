@@ -1,5 +1,7 @@
 # Crypto Price Tracker ₿
 
+(https://crypto-prices-tracker.netlify.app/)
+
 This app tracks the price & market changes for top 100 cryptocurrencies.
 
 ![Crypto-tracker screenshot](https://github.com/Miguel-S-T/Crypto-Prices/assets/70488920/a5745800-37ca-44bc-a160-40f0f309a672)
