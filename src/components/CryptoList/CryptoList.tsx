@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { DataGrid, GridColDef, GridRenderCellParams } from "@mui/x-data-grid";
-import { TextField , Card, CardContent, Typography,  IconButton, Tooltip } from '@mui/material';
+import { TextField , IconButton, Tooltip } from '@mui/material';
 import { Link } from 'react-router-dom';
 import StarIcon from '@mui/icons-material/Star';
 import StarOutlineIcon from '@mui/icons-material/StarOutline';
